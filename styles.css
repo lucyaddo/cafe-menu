@@ -1,0 +1,100 @@
+body {
+    background-image: url(beans.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+
+}
+
+img {
+    display: block;
+    margin-left:  auto;
+    margin-right: auto;
+    margin-top: -20px;
+    
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+
+
+}
+
+h1, h2 {
+    font-family: 'Imperial Script', cursive;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+div {
+    width: 80%;
+    background-color: burlywood;
+    margin: auto;
+    max-width: 500px;
+    padding: 50px;
+
+}
+
+.item p {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+} 
+
+.coffee, .sandwich {
+    text-align: left;
+    width: 70%;
+}
+
+
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+.top-margin {
+    margin-top: -25px;
+}
+
+.established {
+    margin-top: -10px;
+}
+
+hr {
+    margin-top: 35px;
+    height: 3px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.hr-top {
+    margin-top: 15px;
+}
+
+address{
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+
+a:active {
+    color: brown;
+}
